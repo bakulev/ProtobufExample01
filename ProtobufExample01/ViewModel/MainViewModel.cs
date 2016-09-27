@@ -53,6 +53,7 @@ namespace ProtobufExample01.ViewModel
 
                     WelcomeTitle = item.Title;
                 });
+            NetworkTest.Test();
         }
 
         ////public override void Cleanup()
